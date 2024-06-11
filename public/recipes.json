@@ -1,0 +1,144 @@
+{
+  "recipes": [
+    {
+      "name": "Spaghetti Bolognese",
+      "ingredients": ["Spaghetti", "Minced meat", "Tomatoes", "Onion", "Garlic"],
+      "preparationTime": "15 minutes",
+      "cookingTime": "30 minutes",
+      "serves": 4
+    },
+    {
+      "name": "Roast Chicken",
+      "ingredients": ["Chicken", "Potatoes", "Garlic", "Rosemary"],
+      "preparationTime": "20 minutes",
+      "cookingTime": "1 hour 30 minutes",
+      "serves": 4
+    },
+    {
+      "name": "Pancakes",
+      "ingredients": ["Flour", "Eggs", "Milk", "Sugar", "Butter"],
+      "preparationTime": "10 minutes",
+      "cookingTime": "30 minutes",
+      "serves": 4
+    },
+    {
+      "name": "Caesar Salad",
+      "ingredients": ["Lettuce", "Chicken", "Croutons", "Parmesan", "Caesar Dressing"],
+      "preparationTime": "15 minutes",
+      "cookingTime": "0 minute",
+      "serves": 2
+    },
+    {
+      "name": "Beef Stew",
+      "ingredients": ["Beef", "Carrots", "Potatoes", "Onion", "Garlic", "Beef broth"],
+      "preparationTime": "20 minutes",
+      "cookingTime": "2 hours",
+      "serves": 4
+    },
+    {
+      "name": "Vegetable Soup",
+      "ingredients": ["Carrots", "Celery", "Onion", "Garlic", "Tomatoes", "Vegetable broth"],
+      "preparationTime": "15 minutes",
+      "cookingTime": "30 minutes",
+      "serves": 4
+    },
+    {
+      "name": "Chicken Curry",
+      "ingredients": ["Chicken", "Onion", "Garlic", "Curry powder", "Coconut milk"],
+      "preparationTime": "15 minutes",
+      "cookingTime": "30 minutes",
+      "serves": 4
+    },
+    {
+      "name": "Vegetable Stir Fry",
+      "ingredients": ["Broccoli", "Carrots", "Bell peppers", "Garlic", "Soy sauce"],
+      "preparationTime": "15 minutes",
+      "cookingTime": "15 minutes",
+      "serves": 4
+    },
+    {
+      "name": "Fish Tacos",
+      "ingredients": ["Fish fillets", "Tortillas", "Cabbage", "Avocado", "Lime"],
+      "preparationTime": "20 minutes",
+      "cookingTime": "10 minutes",
+      "serves": 4
+    },
+    {
+      "name": "Cheese Pizza",
+      "ingredients": ["Pizza dough", "Tomato sauce", "Mozzarella cheese", "Basil"],
+      "preparationTime": "15 minutes",
+      "cookingTime": "15 minutes",
+      "serves": 4
+    },
+    {
+      "name": "Chocolate Cake",
+      "ingredients": ["Flour", "Sugar", "Cocoa powder", "Eggs", "Butter", "Chocolate"],
+      "preparationTime": "20 minutes",
+      "cookingTime": "30 minutes",
+      "serves": 8
+    },
+    {
+      "name": "Apple Pie",
+      "ingredients": ["Apples", "Sugar", "Cinnamon", "Pie crust"],
+      "preparationTime": "20 minutes",
+      "cookingTime": "45 minutes",
+      "serves": 8
+    },
+    {
+      "name": "Lasagna",
+      "ingredients": ["Lasagna noodles", "Ground beef", "Tomato sauce", "Ricotta cheese", "Mozzarella cheese"],
+      "preparationTime": "30 minutes",
+      "cookingTime": "45 minutes",
+      "serves": 8
+    },
+    {
+      "name": "Grilled Cheese Sandwich",
+      "ingredients": ["Bread", "Cheese", "Butter"],
+      "preparationTime": "5 minutes",
+      "cookingTime": "10 minutes",
+      "serves": 1
+    },
+    {
+      "name": "Tomato Soup",
+      "ingredients": ["Tomatoes", "Onion", "Garlic", "Vegetable broth", "Cream"],
+      "preparationTime": "10 minutes",
+      "cookingTime": "30 minutes",
+      "serves": 4
+    },
+    {
+      "name": "Chicken Alfredo",
+      "ingredients": ["Fettuccine", "Chicken", "Garlic", "Cream", "Parmesan cheese"],
+      "preparationTime": "15 minutes",
+      "cookingTime": "20 minutes",
+      "serves": 4
+    },
+    {
+      "name": "Beef Tacos",
+      "ingredients": ["Ground beef", "Tortillas", "Lettuce", "Tomatoes", "Cheese"],
+      "preparationTime": "15 minutes",
+      "cookingTime": "15 minutes",
+      "serves": 4
+    },
+    {
+      "name": "Chicken Noodle Soup",
+      "ingredients": ["Chicken", "Carrots", "Celery", "Onion", "Garlic", "Noodles", "Chicken broth"],
+      "preparationTime": "15 minutes",
+      "cookingTime": "30 minutes",
+      "serves": 4
+    },
+    {
+      "name": "Beef Burgers",
+      "ingredients": ["Ground beef", "Buns", "Lettuce", "Tomatoes", "Onion", "Cheese"],
+      "preparationTime": "15 minutes",
+      "cookingTime": "15 minutes",
+      "serves": 4
+    },
+    {
+      "name": "Vegetable Pasta",
+      "ingredients": ["Pasta", "Broccoli", "Bell peppers", "Garlic", "Olive oil"],
+      "preparationTime": "15 minutes",
+      "cookingTime": "15 minutes",
+      "serves": 4
+    }
+  ]
+}
